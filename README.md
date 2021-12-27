@@ -1,6 +1,8 @@
 # srt-chad-dwm
 This is my dwm config dude :smile:
 
+# How to Install 
+comming soon
 
 # Requirement for chadwm :
 1) acpi (sudo pacman -S acpi)
@@ -9,5 +11,8 @@ This is my dwm config dude :smile:
 4) rofi
 
 # Required Font
+comming soon
 
 # Requirement for .dwm
+
+comming soon
